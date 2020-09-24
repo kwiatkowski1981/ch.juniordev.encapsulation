@@ -19,4 +19,5 @@ public class DiscountApp {
         System.out.println("Kwota przed rabatem: " + price2);
         System.out.println("Do zapłaty (po rabacie): " + priceDiscount2);
     }
+
 }

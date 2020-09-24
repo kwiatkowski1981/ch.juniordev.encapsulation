@@ -24,4 +24,5 @@ public class DiscountService {
     private double applyDiscount(double price, double discount) {
         return price * (1 - discount);
     }
+
 }

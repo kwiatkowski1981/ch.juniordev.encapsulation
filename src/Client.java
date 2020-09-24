@@ -33,4 +33,5 @@ public class Client {
     public void setPremium(boolean premium) {
         this.premium = premium;
     }
+
 }
