@@ -10,6 +10,7 @@ public class Client {
         this.premium = premium;
     }
 
+
     public String getFirstName() {
         return firstName;
     }
